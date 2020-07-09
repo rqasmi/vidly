@@ -12,7 +12,7 @@
     "start": "node app.js"
   },
   "engines": {
-    "node": "8.9.1"
+    "node": "8.10.0"
   },
   "keywords": [],
   "author": "",
@@ -32,6 +32,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.27.0",
     "mongoose": "^5.9.19",
+    "npm": "^5.6.0",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"
   },
