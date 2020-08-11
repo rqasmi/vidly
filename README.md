@@ -1,4 +1,4 @@
-# vidly-app
+# vidly-app-backend
 A simple virtual movie rental service application that provides a CRUD RESTful web service that allows a customer to rent
 a movie and return it.
 
