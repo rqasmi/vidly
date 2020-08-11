@@ -8,7 +8,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage",
+    "test": "jest --watchAll --verbose --coverage --testTimeout=60000",
     "start": "node app.js"
   },
   "engines": {
