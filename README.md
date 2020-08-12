@@ -12,4 +12,4 @@ MongoDB was used as database server to store documents in collections. Mongoose 
 for storing, retirveing, querying and updating documents.
 
 ## Deployment
-The backend was deployed on heroku dyno (server) with MongoDB provided as a service in the cloud.
+The backend was deployed to heroku server with MongoDB provided as a service in the cloud. (MongoAtlas)
